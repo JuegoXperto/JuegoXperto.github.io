@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
     "site": "https://JuegoXperto.github.io",
     "hubpress": "https://juegoxperto.github.io",
-    "theme": "//JuegoXperto.github.io/themes/the-shell",
+    "theme": "//JuegoXperto.github.io/themes/uno-zen",
     "images": "https://JuegoXperto.github.io/images"
   },
   "initialisationConfigComponent": {
