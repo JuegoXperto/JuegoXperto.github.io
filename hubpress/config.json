@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://JuegoXperto.github.io",
     "hubpress": "https://juegoxperto.github.io",
-    "theme": "//JuegoXperto.github.io/themes/ghostium",
+    "theme": "//JuegoXperto.github.io/themes/ichi",
     "images": "https://JuegoXperto.github.io/images"
   },
   "initialisationConfigComponent": {
